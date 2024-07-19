@@ -1,0 +1,1 @@
+from ruddy.client.middleware.core_middleware import CoreMiddlewareFactory
