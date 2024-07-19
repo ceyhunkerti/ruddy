@@ -1,6 +1,7 @@
 # Ruddy
 
 - A POC implementation for Apache Arrow Flight protocol.
+- Demo implementation for server and client code.
 - Uses Duckdb for the backend.
 
 
